@@ -3,3 +3,5 @@
  !#/bin/bash
  echo "schol" 
 - e  #!/bin/bash\n echo " school" 
+ #!/bin/bash/
+ echo "school" 
