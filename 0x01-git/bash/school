@@ -14,3 +14,4 @@ echo " ALX  "
 #!/bin/bash
 echo " school  " 
  #!/bin/bin\necho " school " 
+ #!/bin/bin\necho " school " 
